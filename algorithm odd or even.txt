@@ -1,0 +1,5 @@
+algorithm to find whether a number is even or odd
+1.start
+2.accept a number
+3.divide the number with 2. if the number is 0 else it is odd
+4.stop
